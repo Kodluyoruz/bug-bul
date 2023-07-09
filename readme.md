@@ -1,4 +1,4 @@
-# Bu Repo Kodluyoruz Discord Bug Bul Etkinliği Çözümleri
+# Kodluyoruz Discord Bug Bul Etkinliği Çözümleri
 
 Bu repo, Kodluyoruz Discord sunucusunda düzenlenen "Bug Bul" etkinliğinde çözülen algoritma sorularının cevaplarını içermektedir. Etkinlikteki soruları çözmek için kullanılan algoritmalar ve cevapları bu repo altında bulabilirsiniz.
 
